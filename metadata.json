@@ -1,0 +1,6 @@
+{
+  "name": "SKG8 Win Club",
+  "description": "SKG8 Win official gaming club & registration portal featuring real money recharge gateway, simultaneous multiplayer co-play, Win Go color prediction, TRX lottery, Aviator crash, Mines diamond grid, Dragon vs Tiger, Limbo rocket, European Roulette, and Slots 777.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
